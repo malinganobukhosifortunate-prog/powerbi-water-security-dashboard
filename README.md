@@ -50,7 +50,7 @@ The dashboard was developed using **Power BI Service (Web version)** due to rest
 ## 🖼 Dashboard Preview
 
 ### Full Dashboard Overview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.PNG)
 
 ### KPI Section
 ![KPI Section](kpi_section.png)
